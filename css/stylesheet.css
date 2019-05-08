@@ -1,0 +1,52 @@
+/* CSSのリセット */
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p,
+form, input, div {
+  margin: 0;
+  padding: 0;
+}
+
+/* CSS */
+.container-fruid{
+    width:800px;
+    margin:0 auto;
+}
+
+/* header */
+header{
+    background-image:url(../img/paspol.jpg);
+    background-size: cover;
+    height: 700px;
+    width:100%;
+}
+
+/* section1 */
+.section1{
+    background-color:#eee;
+    letter-spacing: 3px;
+}
+.section1-text{
+    width:400px;
+    margin:0 auto;
+}
+/* section2 */
+.section2{
+    background-color:white;
+}
+/* section3 */
+.section3{
+    background-color:#eee;
+}
+/* section4 */
+.section4{
+    background-color:white;
+}
+/* section5 */
+.section5{
+    background-color:#eee;
+}
+/* section6 */
+.section6{
+    background-color:silver;
+}
